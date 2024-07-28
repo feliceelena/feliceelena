@@ -1,7 +1,7 @@
 - 👋 Hey! I'm Felice Elena.
 - 👀 A final year Mathematics undergraduate student at Parahyangan Catholic University.
 - 🌱 I mostly use Python as my language.
-- 😄 Here's some of my school projects during my 4 years at uni :)
+- 😄 Here's some of my recent projects :)
 - 📫 You can reach me through email: feliceelenasusilo@gmail.com
 
 
